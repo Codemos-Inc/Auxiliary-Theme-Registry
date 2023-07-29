@@ -1,17 +1,17 @@
 {
-  "version": "v0.0.1",
+  "version": "v0.0.2",
   "themes": {
     "dark": [
       {
         "publisher": "Microsoft",
-        "package": "Defaults",
+        "extension": "Defaults",
         "theme": "Dark Modern",
         "origin": "Builtin",
         "license": "MIT"
       },
       {
         "publisher": "Microsoft",
-        "package": "Defaults",
+        "extension": "Defaults",
         "theme": "Dark+",
         "origin": "Builtin",
         "license": "MIT"
@@ -20,14 +20,14 @@
     "light": [
       {
         "publisher": "Microsoft",
-        "package": "Defaults",
+        "extension": "Defaults",
         "theme": "Light Modern",
         "origin": "Builtin",
         "license": "MIT"
       },
       {
         "publisher": "Microsoft",
-        "package": "Defaults",
+        "extension": "Defaults",
         "theme": "Light+",
         "origin": "Builtin",
         "license": "MIT"
