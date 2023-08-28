@@ -94,7 +94,7 @@ In this section, you can find detailed information about the modularity system, 
 A standard auxiliary theme registry repository has the following type of structure.
 
 ```text
-┌-📂 registry
+┌─📂 registry
 │  ├─📂 publisher1
 │  │  └─📂 extension1
 │  │     ├─📄 theme1-dark.json
@@ -201,7 +201,7 @@ This is the type definition of the object Modern expects to find as the auxiliar
 ##### Example `index.json` file for the imaginary registry
 
 ```text
-┌-📂 registry
+┌─📂 registry
 │  ├─📂 publisher1
 │  │  └─📂 extension1
 │  │     ├─📄 theme1-dark.json
