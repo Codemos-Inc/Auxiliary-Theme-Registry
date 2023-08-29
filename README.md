@@ -4,7 +4,7 @@ This is the official and verified auxiliary theme registry from Codemos.
 
 ### 🎯 Target
 
-As being the official repository, our target is to provide a curated list of themes that are beloved by VS Code users. We want to include **all Marketplace theme extensions down to 50k downloads**. This doesn't mean that we only add the most popular themes in marketplaces, we are open to contributions from the community. We will review the themes and add them to the registry if they meet our quality standards. Our catalog grows rapidly and is updated regularly.
+As being the official repository, our target is to provide a curated list of themes that are beloved by VS Code users. We want to include **all Marketplace theme extensions down to 50k downloads**. This doesn't mean that we'll only host the most popular themes in marketplaces, we are open to contributions from the community. We will review the themes and register them to the registry if they meet our quality standards. Our catalog grows rapidly and is updated regularly.
 
 <h3 id="subs">❤️ Subscription</h3>
 
