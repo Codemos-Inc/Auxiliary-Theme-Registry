@@ -4,7 +4,7 @@ This is the official and verified auxiliary theme registry from Codemos.
 
 ### 🎯 Target
 
-As the official repository, the target for this repository is to provide a curated list of themes that are beloved by VS Code users. We want to include **all Marketplace theme extensions down to 50k downloads**. This doesn't mean that we only add the most popular themes in marketplaces, we are open to contributions from the community. We will review the themes and add them to the registry if they meet our quality standards. Our catalog grows rapidly and is updated regularly.
+As being the official repository, our target is to provide a curated list of themes that are beloved by VS Code users. We want to include **all Marketplace theme extensions down to 50k downloads**. This doesn't mean that we'll only host the most popular themes in marketplaces, we are open to contributions from the community. We will review the themes and register them to the registry if they meet our quality standards. Our catalog grows rapidly and is updated regularly.
 
 <h3 id="subs">❤️ Subscription</h3>
 
@@ -94,7 +94,7 @@ In this section, you can find detailed information about the modularity system, 
 A standard auxiliary theme registry repository has the following type of structure.
 
 ```text
-┌-📂 registry
+┌─📂 registry
 │  ├─📂 publisher1
 │  │  └─📂 extension1
 │  │     ├─📄 theme1-dark.json
@@ -201,7 +201,7 @@ This is the type definition of the object Modern expects to find as the auxiliar
 ##### Example `index.json` file for the imaginary registry
 
 ```text
-┌-📂 registry
+┌─📂 registry
 │  ├─📂 publisher1
 │  │  └─📂 extension1
 │  │     ├─📄 theme1-dark.json
