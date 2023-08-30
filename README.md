@@ -309,7 +309,6 @@ Important notes:
 
 - Modern looks for the latest release when installing/updating registries. So, you should always create a release tag with the updated version of the `index.json` file.
   - **Tag format:** `vMajor.Minor.Patch` (e.g. `v1.0.0`)
-  - **`version` property in `index.json`:** `Major.Minor.Patch` (e.g. `1.0.0`)
 - When you are the owner of the auxiliary theme registry, **you are** the responsible for maintaining the registry **not Codemos**.
 - Occasionally, Modern is updated and breaking changes may happen. You as the registry owners will be informed ahead of the time to prepare for the update.
 - Currently our system is not automated, you have to make sure that the registry is perfectly valid and up-to-date. We are working on automating the process and we will update this document when we are ready.
