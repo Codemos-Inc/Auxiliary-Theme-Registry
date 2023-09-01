@@ -44,5 +44,6 @@ Nothing yet.
   - [Monokai Vibrant](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant) from Dylan Marsh.
   - [Xcode Default Theme](https://marketplace.visualstudio.com/items?itemName=smockle.xcode-default-theme) from Clay Miller.
 
-[unreleased]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.0.0...HEAD
+[unreleased]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/Codemos-Inc/auxiliary-theme-registry/releases/tag/v1.0.0
