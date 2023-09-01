@@ -12,7 +12,7 @@ Nothing yet.
 
 ### Updated
 
-- Catppuccin for VSCode for VSCode theme to version 2.9.0.
+- Catppuccin for VSCode extension to version 2.9.0.
 
 ### Fixed
 
