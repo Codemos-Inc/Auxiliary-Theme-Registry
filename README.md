@@ -307,7 +307,7 @@ Publishing a registry has some simple steps to follow:
 
 Important notes:
 
-- Modern looks for the latest release when installing/updating registries. So, you should always create a release tag with the updated version of the `index.json` file.
+- Modern looks for the latest release when installing/updating registries. So, you should always create a release tag with the updated `version` property in the `index.json` file.
   - **Tag format:** `vMajor.Minor.Patch` (e.g. `v1.0.0`)
 - When you are the owner of the auxiliary theme registry, **you are** the responsible for maintaining the registry **not Codemos**.
 - Occasionally, Modern is updated and breaking changes may happen. You as the registry owners will be informed ahead of the time to prepare for the update.
@@ -325,7 +325,7 @@ Updating a registry is very straightforward:
 
 - Make the changes,
 - Update the `index.json` file,
-- Create a release tag with the updated version of the `index.json` file.
+- Create a release tag with the updated `version` property in the `index.json` file.
 
 ##### What happens when a registry is updated?
 
@@ -355,4 +355,4 @@ We are open to any kind of contribution. If you want to contribute to Auxiliary 
 
 <h2 id="rdme-license">📜 License</h2>
 
-Codemos Modern is licensed under the [MIT License](https://github.com/Codemos-Inc/Auxiliary-Theme-Registry/blob/main/LICENSE.md).
+ Codemos Auxiliary Theme Registry is licensed under the [MIT License](https://github.com/Codemos-Inc/Auxiliary-Theme-Registry/blob/main/LICENSE.md).
