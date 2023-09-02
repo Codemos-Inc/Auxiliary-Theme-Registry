@@ -8,6 +8,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 Nothing yet.
 
+## [1.1.0] - 2023-09-01 - More themes 🎨
+
+### Added
+
+- Added marketplace themes down to 90k download count:
+  - [Pop N' Lock Theme by Luxcium ✨](https://marketplace.visualstudio.com/items?itemName=Luxcium.pop-n-lock-theme-vscode) from Luxcium.
+  - [Pink-Cat-Boo Theme](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) from Fiona Fan.
+  - [Pitch Black Theme](https://marketplace.visualstudio.com/items?itemName=viktorqvarfordt.vscode-pitch-black-theme) from Viktor Qvarfordt.
+  - [Discord Tools](https://marketplace.visualstudio.com/items?itemName=Darkempire78.discord-tools) from Darkempire.
+  - [Github Theme](https://marketplace.visualstudio.com/items?itemName=thomaspink.theme-github) from Thomas Pink.
+  - [New Moon Syntax Theme](https://marketplace.visualstudio.com/items?itemName=taniarascia.new-moon-vscode) from Tania Rascia.
+  - [Nebula Theme](https://marketplace.visualstudio.com/items?itemName=ChirtleLovesDolls.nebula-theme) from ChirtleLovesDolls
+  - [Dark Low Contrast Themes](https://marketplace.visualstudio.com/items?itemName=EvgeniyPetukhov.dark-low-contrast) from Evgeniy Petukhov.
+  - [Field Lights Theme](https://marketplace.visualstudio.com/items?itemName=sveggiani.vscode-field-lights) from Sebastián Veggian.
+
 ## [1.0.1] - 2023-09-01 - Updates & fixes 🔨
 
 ### Updated
