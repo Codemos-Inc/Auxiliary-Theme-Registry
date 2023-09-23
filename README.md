@@ -235,7 +235,7 @@ Example `index.json` for the imaginary registry:
 
 ```json
 {
-  "version": "1.0.0", // Must follow the semver format.
+  "version": "v1.0.0", // Must follow the semver format.
   "themes": {
     "dark": [
       {
