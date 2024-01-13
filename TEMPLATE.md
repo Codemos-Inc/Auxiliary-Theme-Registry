@@ -2,6 +2,16 @@
 
     This is the community auxiliary theme registry from <owner>.
 
+### 🔗 Compatibility
+
+The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/Codemos-Inc/Codemos-Modern).
+
+| Registry Distribution | Supported Codemos Modern Distribution |
+| --------------------- | ------------------------------------- |
+| <vLower> to <vHigher> | <vLower> to <vHigher>                 |
+
+    Check official registry's readme for an example.
+
 ### 🎯 Target
 
     Explain registry's general purpose and direction. What can subscribers expect from it? Who can subscribe?
@@ -10,12 +20,12 @@
 
 Add the fallowing entry to your `settings.json` file.
 
-```json
-{
+```jsonc
+{ // settings.json
   "codemosModern.auxiliaryThemeRegistries": [
-    ...
+    \\ ...
     "<owner>/<repo>",
-    ...
+    \\ ...
   ]
 }
 ```
