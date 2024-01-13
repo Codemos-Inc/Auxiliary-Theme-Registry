@@ -241,7 +241,7 @@ Example `index.json` for the imaginary registry:
       {
         "publisher": "publisher1",
         "extension": "extension1",
-        "theme": "theme1-dark", //Don't add '.json' file extension.
+        "theme": "theme1-dark", // Don't add '.json' file extension.
         "origin": "Marketplace",
         "license": "GPL-3.0"
       },
