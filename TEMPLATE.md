@@ -6,9 +6,9 @@ This is a community auxiliary theme registry from \<owner\>.
 
 The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/Codemos-Inc/Codemos-Modern).
 
-| Registry Distribution    | Supported Codemos Modern Distribution |
-| ------------------------ | ------------------------------------- |
-| \<vLower\>...\<vHigher\> | \<vLower\>...\<vHigher\>              |
+| Registry Distribution  | Supported CM Distribution |
+| ---------------------- | ------------------------- |
+| \<lower\>...\<higher\> | \<lower\>...\<higher\>    |
 
     Check official registry's readme for an example.
 
