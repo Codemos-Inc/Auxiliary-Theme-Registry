@@ -1,6 +1,6 @@
 # \<registry-name\>
 
-    This is the community auxiliary theme registry from <owner>.
+This is a community auxiliary theme registry from <owner>.
 
 ### 🔗 Compatibility
 
