@@ -8,8 +8,8 @@ The table below showcases the compatibility between different distributions of t
 
 | Registry Distribution | Supported Codemos Modern Distribution |
 | --------------------- | ------------------------------------- |
-| v1.1.2 - latest       | v2.4.0 - latest                       |
-| v0.0.1 - v1.1.1       | v2.0.0 - v2.3.1                       |
+| v1.1.2 to latest      | v2.4.0 to latest                      |
+| v0.0.1 to v1.1.1      | v2.0.0 to v2.3.1                      |
 
 ### 🎯 Target
 
@@ -31,7 +31,7 @@ Add the fallowing entry to your `settings.json` file.
 
 ### 🎨 Catalog
 
-Individual publishers & themes are listed in the `index.json` file in the root of this repository. You can find the list of themes in the `themes` property of the `index.json` file. Each theme is represented by an object with the following properties.
+Individual publishers & themes are listed in the `index.json` file at the root of this repository. You can find the list of themes in the `themes` property of the `index.json` file. Each theme is represented by an object with the following properties.
 
 - **Publisher:** The publisher of the theme.
 - **Extension:** The name of the extension containing the themes.
