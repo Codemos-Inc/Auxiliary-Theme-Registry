@@ -8,8 +8,8 @@ The table below showcases the compatibility between different distributions of t
 
 | Registry Distribution | Supported CM Distribution |
 | --------------------- | ------------------------- |
-| v1.1.2...latest       | v2.4.0...latest           |
-| v0.0.1...v1.1.1       | v2.0.0...v2.3.1           |
+| 1.1.2...latest        | 2.4.0...latest           |
+| 0.0.1...1.1.1         | 2.0.0...2.3.1           |
 
 ### 🎯 Target
 
