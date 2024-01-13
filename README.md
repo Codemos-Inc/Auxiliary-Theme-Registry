@@ -8,8 +8,8 @@ The table below showcases the compatibility between different distributions of t
 
 | Registry Distribution | Supported Codemos Modern Distribution |
 | --------------------- | ------------------------------------- |
-| v1.1.2 to latest      | v2.4.0 to latest                      |
-| v0.0.1 to v1.1.1      | v2.0.0 to v2.3.1                      |
+| v1.1.2 - latest       | v2.4.0 - latest                       |
+| v0.0.1 - v1.1.1       | v2.0.0 - v2.3.1                       |
 
 ### 🎯 Target
 
