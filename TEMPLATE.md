@@ -8,7 +8,7 @@ The table below showcases the compatibility between different distributions of t
 
 | Registry Distribution    | Supported Codemos Modern Distribution |
 | ------------------------ | ------------------------------------- |
-| \<vLower\> - \<vHigher\> | \<vLower\> - \<vHigher\>              |
+| \<vLower\>...\<vHigher\> | \<vLower\>...\<vHigher\>              |
 
     Check official registry's readme for an example.
 
