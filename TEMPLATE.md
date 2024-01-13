@@ -20,6 +20,8 @@ The table below showcases the compatibility between different distributions of t
 
 Add the fallowing entry to your `settings.json` file.
 
+    Change the "<owner>/<repo>" value below to your registry's relative path.
+
 ```jsonc
 { // settings.json
   "codemosModern.auxiliaryThemeRegistries": [
