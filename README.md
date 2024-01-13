@@ -10,12 +10,12 @@ As being the official repository, our target is to provide a curated list of the
 
 Add the fallowing entry to your `settings.json` file.
 
-```json
+```jsonc
 { // settings.json
   "codemosModern.auxiliaryThemeRegistries": [
-    ...
+    // ...
     "Codemos-Inc/Auxiliary-Theme-Registry",
-    ...
+    // ...
   ]
 }
 ```
@@ -233,7 +233,7 @@ Important notes:
 
 Example `index.json` for the imaginary registry:
 
-```json
+```jsonc
 {
   "version": "v1.0.0", // Must follow the semver format.
   "themes": {
