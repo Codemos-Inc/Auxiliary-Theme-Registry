@@ -86,7 +86,7 @@ In this section, you can find detailed information about the modularity system, 
     - **Publisher:** Publisher of the extension that contains VS Code themes. (This is usually the publisherId in the marketplaces, but if the extension is not published to any marketplaces, it can be the publisher's GitHub username or the organization name.)
     - **Extension:** The name of the extension that contains VS Code themes.
     - **Theme:** The name of the VS Code theme.
-    - **Origin:** The origin of the theme. It has predefined values like; `Builtin`, `Marketplace`, `GitHub`.
+    - **Origin:** The origin of the theme. It has predefined values like; `Built-in`, `Marketplace`, `GitHub`.
     - **License:** The license of the extension. (In order a theme to be included in the registry, it must have a license and that license must allow redistribution.)
 
 <h3 id="rdme-docs-str">📦 Structure</h3>
@@ -229,7 +229,7 @@ Important notes:
 - `publisher`, `extension`, `theme` property values are case insensitive, but we recommend using the exact names to avoid confusion.
 - The value of the `theme` property will be shown when selecting themes so it is suggested to use a display name that is more readable like 'Theme 2' and not 'theme1-dark' in the example 'index.json' file.
 - Modern updates registry indexes by comparing the `version` property value in the `index.json` with the version of the repository's latest release tag. If the version of the `index.json` is lower than the latest release tag, Modern will update the registry index, clearing all cached/installed themes. (This is done to reduce the number of requests to the registry repository.) So, it is important to update the `version` property value when you are preparing for the next release.
-- You should only use `Marketplace` or `GitHub` as the value of the `origin` property. The value `Bundled` is only used by Codemos to indicate that the theme is bundled with Modern and `Builtin` is only used to indicate that the theme is a builtin theme of VS Code.
+- You should only use `Marketplace` or `GitHub` as the value of the `origin` property. The value `Bundled` is only used by Codemos to indicate that the theme is bundled with Modern and `Built-in` is only used to indicate that the theme is a built-in theme of VS Code.
 
 Example `index.json` for the imaginary registry:
 
