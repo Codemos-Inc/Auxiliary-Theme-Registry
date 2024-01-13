@@ -11,7 +11,7 @@ As being the official repository, our target is to provide a curated list of the
 Add the fallowing entry to your `settings.json` file.
 
 ```json
-{
+{ // settings.json
   "codemosModern.auxiliaryThemeRegistries": [
     ...
     "Codemos-Inc/Auxiliary-Theme-Registry",
