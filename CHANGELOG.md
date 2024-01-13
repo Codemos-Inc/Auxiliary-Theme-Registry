@@ -8,6 +8,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 Nothing yet.
 
+## [1.1.2] - 2024-01-13 - Minor fixes 🔨
+
+### Changed
+
+- Spelling for "Builtin" origin to "Built-in".
+
 ## [1.1.1] - 2023-09-02 - Minor fixes 🔨
 
 ### Fixed
@@ -65,7 +71,8 @@ Nothing yet.
   - [Monokai Vibrant](https://marketplace.visualstudio.com/items?itemName=s3gf4ult.monokai-vibrant) from Dylan Marsh.
   - [Xcode Default Theme](https://marketplace.visualstudio.com/items?itemName=smockle.xcode-default-theme) from Clay Miller.
 
-[unreleased]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.1.1...HEAD
+[unreleased]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.1.2...HEAD
+[1.1.2]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.1.1...v1.1.2
 [1.1.1]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.1.0...v1.1.1
 [1.1.0]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.0.1...v1.1.0
 [1.0.1]: https://github.com/Codemos-Inc/auxiliary-theme-registry/compare/v1.0.0...v1.0.1
