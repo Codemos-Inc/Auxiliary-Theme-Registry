@@ -2,6 +2,15 @@
 
 This is the official and verified auxiliary theme registry from Codemos.
 
+### 🔗 Compatibility
+
+The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/Codemos-Inc/Codemos-Modern).
+
+| Registry Distribution | Supported Codemos Modern Distribution |
+| --------------------- | ------------------------------------- |
+| v1.1.2 - latest       | v2.4.1 - latest                       |
+| v0.0.1 - v1.1.1       | v2.0.0 - v2.3.1                       |
+
 ### 🎯 Target
 
 As being the official repository, our target is to provide a curated list of themes that are beloved by VS Code users. We want to include **all Marketplace theme extensions down to 50k downloads**. This doesn't mean that we'll only host the most popular themes in marketplaces, we are open to contributions from the community. We will review the themes and register them to the registry if they meet our quality standards. Our catalog grows rapidly and is updated regularly.
