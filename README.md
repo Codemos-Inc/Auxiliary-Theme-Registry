@@ -6,10 +6,10 @@ This is the official and verified auxiliary theme registry from Codemos.
 
 The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/Codemos-Inc/Codemos-Modern).
 
-| Registry Distribution | Supported Codemos Modern Distribution |
-| --------------------- | ------------------------------------- |
-| v1.1.2 - latest       | v2.4.0 - latest                       |
-| v0.0.1 - v1.1.1       | v2.0.0 - v2.3.1                       |
+| Registry Distribution | Supported CM Distribution |
+| --------------------- | ------------------------- |
+| v1.1.2 - latest       | v2.4.0 - latest           |
+| v0.0.1 - v1.1.1       | v2.0.0 - v2.3.1           |
 
 ### 🎯 Target
 
