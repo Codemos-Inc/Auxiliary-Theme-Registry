@@ -6,9 +6,9 @@
 
 The table below showcases the compatibility between different distributions of this registry and their respective supported distributions of [Codemos Modern](https://github.com/Codemos-Inc/Codemos-Modern).
 
-| Registry Distribution | Supported Codemos Modern Distribution |
-| --------------------- | ------------------------------------- |
-| <vLower> to <vHigher> | <vLower> to <vHigher>                 |
+| Registry Distribution     | Supported Codemos Modern Distribution |
+| ------------------------- | ------------------------------------- |
+| \<vLower\> to \<vHigher\> | \<vLower\> to \<vHigher\>             |
 
     Check official registry's readme for an example.
 
