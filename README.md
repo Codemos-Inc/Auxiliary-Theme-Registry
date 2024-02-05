@@ -8,8 +8,8 @@ The table below showcases the compatibility between different distributions of t
 
 | Registry Distribution | Supported CM Distribution |
 | --------------------- | ------------------------- |
-| 1.1.2...latest        | 2.4.0...latest           |
-| 0.0.1...1.1.1         | 2.0.0...2.3.1           |
+| v1.1.2...latest       | v2.4.0...latest           |
+| v0.0.1...v1.1.1       | v2.0.0...v2.3.1           |
 
 ### 🎯 Target
 
@@ -307,7 +307,7 @@ Publishing a registry has some simple steps to follow:
 - You can start by forking this repository or by creating a new one.
 - Prepare the [structure](#rdme-docs-str) of the repository.
 - Find some great extensions to be hosted.
-- Arrange the the [structure](#rdme-docs-str) and the `index.json` file.
+- Arrange the [structure](#rdme-docs-str) and the `index.json` file.
 - Prepare the `README.*` file from the `TEMPLATE.md` file at the root of this repository.
 - Create a release tag with the version of the `index.json` file.
 - Share your registry with the community 🎉.
