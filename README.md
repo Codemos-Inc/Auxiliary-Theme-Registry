@@ -17,13 +17,13 @@ As being the official repository, our target is to provide a curated list of the
 
 <h3 id="subs">❤️ Subscription</h3>
 
-Add the fallowing entry to your `settings.json` file.
+Add the following entry to your `settings.json` file.
 
 ```jsonc
 { // settings.json
   "codemosModern.auxiliaryThemeRegistries": [
     // ...
-    "Codemos-Inc/Auxiliary-Theme-Registry",
+    "Codemos-Inc/Auxiliary-Theme-Registry", // Add this line
     // ...
   ]
 }
