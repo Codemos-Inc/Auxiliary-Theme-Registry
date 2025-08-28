@@ -18,7 +18,7 @@ The table below showcases the compatibility between different distributions of t
 
 ### ❤️ Subscription
 
-Add the fallowing entry to your `settings.json` file.
+Add the following entry to your `settings.json` file.
 
     Change the "<owner>/<repo>" value below to your registry's relative path.
 
